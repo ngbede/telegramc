@@ -1,6 +1,6 @@
 # telegramc
 
-Clone of the popular telegram messenger app built with flutter.
+Clone of the popular telegram messenger app UI, built with flutter.
 
 ## Getting Started
 
